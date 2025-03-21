@@ -1,7 +1,5 @@
 # GridRectangularLoadingHexagonaly
 
-![Image Alt Text](./images/Frame0.png)
-![Image Alt Text](./images/Frame01.png)
 
 
 The challenge this time was to develop a honeycomb grid where each item could load in a circular manner.
@@ -10,6 +8,9 @@ To achieve this, the best approach at the start would be to draw everything out 
 
 
 ![Image Alt Text](./images/Frame1.png)
+
+![Image Alt Text](./images/Frame0.png)
+![Image Alt Text](./images/Frame01.png)
 ![Image Alt Text](./images/Frame2.png)
 ![Image Alt Text](./images/Frame3.png)
 
